@@ -7,6 +7,8 @@ load_dotenv()
 
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
 
 LLM_MODEL = os.getenv(
     "LLM_MODEL",
@@ -31,7 +33,8 @@ CHROMA_PERSIST_DIRECTORY = os.getenv(
 COLLECTION_NAME = "patient_health_records"
 
 
-if not GOOGLE_API_KEY:
+if not GOOGLE_API_KEY and not GROQ_API_KEY:
     raise ValueError(
-        "GOOGLE_API_KEY is not set in the .env file"
+        "No LLM API key is configured. "
+        "Set GOOGLE_API_KEY and/or GROQ_API_KEY."
     )
