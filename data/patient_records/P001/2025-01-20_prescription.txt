@@ -1,0 +1,10 @@
+Patient: P001
+Prescription Date: 2025-01-20
+
+Medication:
+Metformin 500 mg once daily.
+
+No medication dose change documented.
+
+Follow-up:
+Continue periodic laboratory monitoring.

@@ -1,0 +1,19 @@
+Patient: P002
+Visit Date: 2024-02-10
+
+Reason:
+Annual health evaluation.
+
+Laboratory results:
+Hemoglobin: 11.2 g/dL
+Ferritin: 12 ng/mL
+Vitamin B12: 310 pg/mL
+
+Assessment:
+Low hemoglobin and low ferritin documented.
+
+Prescription:
+Oral iron supplementation was prescribed.
+
+Follow-up:
+Repeat CBC and ferritin recommended.

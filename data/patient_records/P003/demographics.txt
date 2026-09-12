@@ -1,0 +1,9 @@
+Patient ID: P003
+Name: Patient Gamma
+Age: 61
+Gender: Male
+
+This is a synthetic patient record created
+for testing a healthcare RAG application.
+
+This record does not represent a real person.

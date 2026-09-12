@@ -1,0 +1,12 @@
+Patient: P005
+Lab Report Date: 2024-09-30
+
+Total cholesterol: 208 mg/dL
+LDL cholesterol: 139 mg/dL
+HDL cholesterol: 41 mg/dL
+Triglycerides: 172 mg/dL
+
+Previous LDL:
+174 mg/dL.
+
+The report documents lower LDL.

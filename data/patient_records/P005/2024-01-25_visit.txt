@@ -1,0 +1,19 @@
+Patient: P005
+Visit Date: 2024-01-25
+
+Reason:
+Cardiometabolic health evaluation.
+
+Total cholesterol: 246 mg/dL
+LDL cholesterol: 174 mg/dL
+HDL cholesterol: 36 mg/dL
+Triglycerides: 210 mg/dL
+
+Assessment:
+Elevated lipid measurements documented.
+
+Prescription:
+Lipid-lowering medication prescribed.
+
+Follow-up:
+Repeat lipid profile recommended.

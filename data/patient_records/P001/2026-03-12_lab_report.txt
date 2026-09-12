@@ -1,0 +1,10 @@
+Patient: P001
+Lab Report Date: 2026-03-12
+
+Laboratory results:
+
+Fasting glucose: 142 mg/dL
+HbA1c: 7.4 %
+LDL cholesterol: 131 mg/dL
+HDL cholesterol: 45 mg/dL
+Triglycerides: 150 mg/dL

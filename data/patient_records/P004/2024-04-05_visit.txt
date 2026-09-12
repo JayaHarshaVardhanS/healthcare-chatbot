@@ -1,0 +1,14 @@
+Patient: P004
+Visit Date: 2024-04-05
+
+Reason:
+Fatigue evaluation.
+
+Laboratory results:
+Vitamin D: 16 ng/mL
+Vitamin B12: 280 pg/mL
+Hemoglobin: 12.1 g/dL
+
+The report documents low Vitamin D.
+
+Supplementation was discussed.

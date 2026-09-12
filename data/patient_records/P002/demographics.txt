@@ -1,0 +1,9 @@
+Patient ID: P002
+Name: Patient Beta
+Age: 44
+Gender: Female
+
+This is a synthetic patient record created
+for testing a healthcare RAG application.
+
+This record does not represent a real person.

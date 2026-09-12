@@ -1,0 +1,14 @@
+Patient: P003
+Lab Report Date: 2026-02-05
+
+Blood pressure:
+142/88 mmHg
+
+LDL cholesterol:
+139 mg/dL
+
+Previous LDL:
+132 mg/dL.
+
+The report documents an increase in LDL compared
+with the previous measurement.

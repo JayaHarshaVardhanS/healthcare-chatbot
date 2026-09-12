@@ -1,0 +1,22 @@
+Patient: P001
+Visit Date: 2024-01-15
+
+Reason for visit:
+Routine metabolic health evaluation.
+
+Observations:
+Fasting glucose: 168 mg/dL
+HbA1c: 8.1 %
+LDL cholesterol: 152 mg/dL
+HDL cholesterol: 39 mg/dL
+Triglycerides: 188 mg/dL
+
+Assessment documented by physician:
+Elevated glucose and HbA1c were documented.
+Dyslipidemia was also documented.
+
+Prescription:
+Metformin 500 mg once daily with food.
+
+Follow-up:
+Repeat laboratory evaluation recommended.

@@ -1,0 +1,11 @@
+Patient: P002
+Lab Report Date: 2025-02-15
+
+Hemoglobin: 12.3 g/dL
+Ferritin: 34 ng/mL
+Vitamin B12: 355 pg/mL
+
+Previous hemoglobin:
+11.8 g/dL.
+
+No new medication change documented.

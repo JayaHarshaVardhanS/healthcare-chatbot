@@ -1,0 +1,13 @@
+Patient: P002
+Visit Date: 2025-09-18
+
+Reason:
+Follow-up laboratory review.
+
+Hemoglobin: 12.5 g/dL
+Ferritin: 39 ng/mL
+
+Previous supplementation documented.
+
+Plan:
+Continue follow-up according to treating physician.

@@ -1,0 +1,11 @@
+Patient: P001
+Prescription Date: 2024-06-22
+
+Medication:
+Metformin 500 mg once daily.
+
+Instruction:
+Continue medication as prescribed.
+
+Follow-up:
+Repeat HbA1c and metabolic panel at next review.

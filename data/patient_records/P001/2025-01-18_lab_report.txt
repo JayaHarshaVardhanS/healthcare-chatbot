@@ -1,0 +1,17 @@
+Patient: P001
+Lab Report Date: 2025-01-18
+
+Laboratory results:
+
+Fasting glucose: 139 mg/dL
+HbA1c: 7.3 %
+LDL cholesterol: 138 mg/dL
+HDL cholesterol: 44 mg/dL
+Triglycerides: 158 mg/dL
+
+Historical HbA1c:
+2024-01-15: 8.1 %
+2024-06-20: 7.7 %
+Current: 7.3 %
+
+The report documents continued monitoring.

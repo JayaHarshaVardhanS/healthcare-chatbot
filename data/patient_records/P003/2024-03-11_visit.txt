@@ -1,0 +1,17 @@
+Patient: P003
+Visit Date: 2024-03-11
+
+Blood pressure:
+148/92 mmHg
+
+LDL cholesterol:
+168 mg/dL
+
+Assessment:
+Elevated blood pressure and LDL cholesterol
+were documented.
+
+Prescription:
+Antihypertensive medication initiated.
+
+Lifestyle counselling documented.

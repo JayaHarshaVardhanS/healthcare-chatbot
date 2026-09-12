@@ -1,0 +1,11 @@
+Patient: P004
+Lab Report Date: 2024-11-12
+
+Vitamin D: 27 ng/mL
+Vitamin B12: 315 pg/mL
+Hemoglobin: 12.4 g/dL
+
+Previous Vitamin D:
+16 ng/mL.
+
+The report documents an increase in Vitamin D.

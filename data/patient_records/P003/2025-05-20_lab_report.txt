@@ -1,0 +1,10 @@
+Patient: P003
+Lab Report Date: 2025-05-20
+
+Blood pressure:
+134/82 mmHg
+
+LDL cholesterol:
+132 mg/dL
+
+The report documents continued monitoring.

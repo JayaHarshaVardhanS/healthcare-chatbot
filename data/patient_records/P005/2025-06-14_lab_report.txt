@@ -1,0 +1,12 @@
+Patient: P005
+Lab Report Date: 2025-06-14
+
+Total cholesterol: 196 mg/dL
+LDL cholesterol: 126 mg/dL
+HDL cholesterol: 44 mg/dL
+Triglycerides: 151 mg/dL
+
+Previous LDL:
+139 mg/dL.
+
+The report documents continued improvement.

@@ -1,0 +1,14 @@
+Patient: P003
+Lab Report Date: 2024-10-11
+
+Blood pressure at visit:
+139/86 mmHg
+
+LDL cholesterol:
+151 mg/dL
+
+Previous LDL:
+168 mg/dL.
+
+The report documents lower LDL compared with
+the previous measurement.
