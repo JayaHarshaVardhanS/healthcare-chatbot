@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-groq
+langchain-chroma
+langgraph
+chromadb
+pydantic
+python-dotenv
+pymupdf
+reportlab
+typing-extensions
+pytest
+streamlit

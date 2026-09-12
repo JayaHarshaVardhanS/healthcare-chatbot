@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Chroma
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Generated data
+data/patient_records/
+
+# Logs
+*.log
+
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.ruff_cache/
+.mypy_cache/
